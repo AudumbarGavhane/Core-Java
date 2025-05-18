@@ -19,6 +19,7 @@ Welcome to the **Core Java Adventures** — a complete guide for mastering Java 
 ---
 
 ## 📁 Folder Structure
+```
 Core-Java-Adventures/
 │
 ├── basics/ # Variables, data types, operators, control flow
@@ -30,8 +31,7 @@ Core-Java-Adventures/
 ├── memory-management/ # JVM memory areas, GC, strong/weak references
 ├── interview-questions/ # Java interview prep notes and code
 └── README.md
-
-
+```
 ---
 
 ## ✨ How to Use This Repo
